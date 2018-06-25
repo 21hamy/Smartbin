@@ -4,8 +4,6 @@
         "PLATFORMIO_CALLER": "vscode"
     },
     "files.associations": {
-        "fstream": "cpp",
-        "istream": "cpp",
-        "*.tcc": "cpp"
+        "array": "cpp"
     }
 }
